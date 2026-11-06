@@ -1,0 +1,12 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Go build files
+*.exe
+*.test
+*.out
+
+# IDE files
+.vscode/
